@@ -10,10 +10,10 @@ Background is sport science. Got into embedded by accident in 2014. Self-taught 
 
 Occasional things that escaped onto the internet:
 
-- [KiDOOM & Scope-DOOM](https://mikeayles.com/kidoom) DOOM wireframe renderer implemented in KiCad, with side quest through a macbook headphone jack on an oscilloscope. #1 on YCHN for the best part of a day, picked up by [media](https://mikeayles.com/kidoom/media)
+- [KiDOOM & Scope-DOOM](https://www.mikeayles.com/blog/kidoom/) DOOM wireframe renderer implemented in KiCad, with side quest through a macbook headphone jack on an oscilloscope. #1 on YCHN for the best part of a day, picked up by [media](https://www.mikeayles.com/featured/kidoom/)
 - [CircuitSnips](https://www.circuitsnips.com) Intended to be the 'Thingiverse of Electronics'. Shareable KiCad subcircuits.
-- [search-bench](https://github.com/MichaelAyles/search-bench). RAG benchmark for coding agents.
-- [TOKN](https://mikeayles.com/TOKN). Schematic compression format, 92% token reduction.
-
+- [search-bench](https://www.mikeayles.com/blog/rag-coding-tools/). RAG benchmark for coding agents.
+- [TOKN](https://mikeayles.com/blog/tokn). 'Token-Optimised KiCad Notation' Schematic compression format, 92% token reduction.
+- [goformer](https://pkg.go.dev/github.com/MichaelAyles/goformer) & [goformersearch](https://pkg.go.dev/github.com/MichaelAyles/goformersearch). BERT inference in pure go. Built to see what I could do in go. Outperformed by ONNX & FAISS by every metric, but it's neat, it works and has zero deps.
 
 [mikeayles.com](https://mikeayles.com) for longer writing. [LinkedIn](https://linkedin.com/in/mayles). mike@mikeayles.com.
